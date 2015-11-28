@@ -15,4 +15,5 @@ def publish(self):
 def _str_(self):
     return self.title
 
+
 # Create your models here.
